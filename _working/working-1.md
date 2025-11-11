@@ -8,8 +8,8 @@ date: 2018-07-18
 location: "Shanghai, China"
 ---
 
-I‘m responsible for the human segmentation algorithm module in the company's "Smart Canteen" project. It was successfully applied to the company's products, and the algorithm was optimized and deployed to the cloud for display on the company's official website.
-I also participated in the company's virtual human project as a core personnel, mainly responsible for the research and development of algorithms related to human motion generation. Related results helped optimize the company's motion capture system and were used in products as the cornerstone of subsequent virtual human motion generation algorithms.
+I was tasked with overseeing the human segmentation algorithm module within the company’s "Smart Canteen" project. This module was successfully integrated into the company’s product ecosystem, while the underlying algorithm was further refined and deployed to the cloud—facilitating its official demonstration on the company’s official website.
+Additionally, I served as a core member in the company’s virtual human project, with primary responsibility for the research and development of algorithms pertaining to human motion generation. The resulting technical outcomes contributed to the optimization of the company’s motion capture system and were incorporated into products as the foundational framework for subsequent virtual human motion generation algorithms.
 
 Heading 1
 ======

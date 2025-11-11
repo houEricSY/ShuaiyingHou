@@ -13,7 +13,7 @@ redirect_from:
 Education
 ======
 * B.S. in Software Engineering, [Northwestern Polytechnical University](https://www.nwpu.edu.cn/), 2017
-* Ph.D in Computer Science and Technology, [Zhejiang University](https://www.zju.edu.cn/), 2024 (expected)
+* Ph.D in Computer Science and Technology, [Zhejiang University](https://www.zju.edu.cn/), 2024
 
 Work experience
 ======
@@ -24,6 +24,10 @@ Work experience
 * 2021-07 to 2023-01: Research Intern
   * Central Media Technology Institute, HUAWEI, Hangzhou
   * Duties included: Controllable limb movement generation project researching and developing
+
+* 2024-07 to now: Postdoctoral Fellow
+  * the State Key Lab of CAD&CG, Zhejiang University, Hangzhou
+  * Duties included: Conduct academic research, engage in project work, and assist with student guidance
   
 Skills
 ======
@@ -50,8 +54,6 @@ IEEE Transactions on Visualization and Computer Graphics (TVCG), 2023\
 ACM SIGGRAPH Asia, 2023\
 Hongyu Tao, [**Shuaiying Hou**](https://houericsy.github.io/ShuaiyingHou/), [Changqing Zou](https://changqingzou.weebly.com/), [Hujun Bao](http://www.cad.zju.edu.cn/home/bao/), [Weiwei Xu](http://www.cad.zju.edu.cn/home/weiweixu/weiweixu_en.htm)<span class="toggle-info" onclick="toggleInfo()">*</span>
 <div class="info" id="info">corresponding author</div>
-
-
 
 <!-- Publications
 ======

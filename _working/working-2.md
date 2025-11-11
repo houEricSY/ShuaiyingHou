@@ -8,8 +8,7 @@ date: 2021-07-20
 location: "Hangzhou, China"
 ---
 
-I participated in a scientific research cooperation project with Huawei and served as the main person in charge of completing the controllable limb movement generation project.
-
+I engaged in a scientific research collaboration project with Huawei, acting as the principal investigator responsible for the development of the controllable limb movement generation project.
 Heading 1
 ======
 
