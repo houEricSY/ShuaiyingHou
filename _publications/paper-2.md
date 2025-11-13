@@ -12,7 +12,7 @@ citation: 'S. Hou, H. Tao, H. Bao and W. Xu, "A Two-part Transformer Network for
 [Download paper here](https://ieeexplore.ieee.org/document/10147861)
 
 <!-- Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2). -->
-[**Shuaiying Hou**](https://houericsy.github.io/ShuaiyingHou/), Hongyu Tao, [Hujun Bao](http://www.cad.zju.edu.cn/home/bao/), [Weiwei Xu](http://www.cad.zju.edu.cn/home/weiweixu/weiweixu_en.htm)
+[**Shuaiying Hou**](https://houericsy.github.io/ShuaiyingHou/), [Hongyu Tao](https://thyzju17.github.io/), [Hujun Bao](http://www.cad.zju.edu.cn/home/bao/), [Weiwei Xu](http://www.cad.zju.edu.cn/home/weiweixu/weiweixu_en.htm)
 
 
 **BibTeX**\
