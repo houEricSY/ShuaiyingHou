@@ -55,8 +55,8 @@ Computational Visual Media (CVMJ, **spotlight**), 2024 \
 [**Shuaiying Hou**](https://houericsy.github.io/ShuaiyingHou/), Congyi Wang, Wenlin Zhuang, Yu Chen, [Yangang Wang](https://www.yangangwang.com/), [Hujun Bao](http://www.cad.zju.edu.cn/home/bao/), [Jinxiang Chai](https://scholar.google.com/citations?user=OcN1_gwAAAAJ&hl=zh-CN), [Weiwei Xu](http://www.cad.zju.edu.cn/home/weiweixu/weiweixu_en.htm)<span class="toggle-info" onclick="toggleInfo(this)">*</span>
 <!-- <div class="info" id="info">corresponding author</div> -->
 
-* [A Two-part Transformer Network for Controllable Motion Synthesis](https://ieeexplore.ieee.org/document/10147861)\
-IEEE Transactions on Visualization and Computer Graphics (TVCG), 2023\
+* [A Two-Part Transformer Network for Controllable Motion Synthesis](https://ieeexplore.ieee.org/document/10147861)\
+IEEE Transactions on Visualization and Computer Graphics (TVCG), 30(8): 5047–5062, 2024\
 [**Shuaiying Hou**](https://houericsy.github.io/ShuaiyingHou/), [Hongyu Tao](https://thyzju17.github.io/), [Hujun Bao](http://www.cad.zju.edu.cn/home/bao/), [Weiwei Xu](http://www.cad.zju.edu.cn/home/weiweixu/weiweixu_en.htm)<span class="toggle-info" onclick="toggleInfo(this)">*</span>
 <!-- <div class="info" id="info">corresponding author</div> -->
 
